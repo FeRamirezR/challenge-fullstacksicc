@@ -40,6 +40,7 @@ Se comparte back-up de BD para que puedan hacer la conexion a la BD Relacional
 ![image](https://user-images.githubusercontent.com/68881279/213289972-ea9a0f12-29b4-4acf-b9ba-40dcf4783dcc.png)
 
 Diagrama de BD
+
 ![image](https://user-images.githubusercontent.com/68881279/213290121-070bd249-441f-461c-8da6-fb8a76cdaf37.png)
 
 
