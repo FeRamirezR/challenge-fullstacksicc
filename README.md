@@ -32,3 +32,6 @@ lógica y persistencia.
 - Entregar el modelo Entidad-relación de la base de datos asociada al prototipo.
 - Entregar una evidencia de funcionamiento (imágenes, video) del prototipo,
 donde se demuestra que se cumplieron las condiciones mencionadas.
+
+POSTMAN- se comparte colección para que puedan hacer las respectivas pruebas:
+![image](https://user-images.githubusercontent.com/68881279/213289642-64133ae7-9197-4b31-80cd-264e309c6429.png)
